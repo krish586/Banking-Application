@@ -1,0 +1,29 @@
+ @charset "ISO-8859-1";
+*{
+	margin : 0;
+	padding : 0;
+}
+body
+{
+	/*height : 50vw;*/
+	background-image: linear-gradient(290deg,green,orange);	
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	
+}
+.form
+{
+	height : 15vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 20px;
+}
+/*h1
+{
+	padding-left: 380px;
+}*/
+
